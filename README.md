@@ -1,3 +1,6 @@
+## This fork inverts the quest/kiosk state in Exosphere, which will cause quest/kiosk consoles to act like regular retail consoles & vice versa.
+
+## Please don't make pull requests with these changes or similar changes to upstream Atmosphere, upstream is suppose to work the way it works and such PRs will not be merged. Thanks!
 
 ![Banner](img/banner.png?raw=true)
 =====
